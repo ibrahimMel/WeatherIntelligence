@@ -1,41 +1,65 @@
+using WeatherIntelligence.Core.Interfaces;
+using WeatherIntelligence.Adapters;
+
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
-// Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
-builder.Services.AddOpenApi();
+// Add services to the container
+builder.Services.AddControllers();
+builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddSwaggerGen();
+
+// Configurer HttpClient
+builder.Services.AddHttpClient();
+
+// Lire les clés API depuis appsettings.json (SÉCURISÉ !)
+var openWeatherKey = builder.Configuration["WeatherApiKeys:OpenWeather"] 
+    ?? throw new Exception("OpenWeather API key manquante dans appsettings.json");
+var weatherApiKey = builder.Configuration["WeatherApiKeys:WeatherAPI"] 
+    ?? throw new Exception("WeatherAPI API key manquante dans appsettings.json");
+var weatherstackKey = builder.Configuration["WeatherApiKeys:Weatherstack"] 
+    ?? throw new Exception("Weatherstack API key manquante dans appsettings.json");
+
+// Enregistrer les 3 Adapters
+builder.Services.AddScoped<IWeatherService>(sp =>
+{
+    var httpClient = sp.GetRequiredService<IHttpClientFactory>().CreateClient();
+    return new OpenWeatherAdapter(httpClient, openWeatherKey);
+});
+
+builder.Services.AddScoped<IWeatherService>(sp =>
+{
+    var httpClient = sp.GetRequiredService<IHttpClientFactory>().CreateClient();
+    return new WeatherAPIAdapter(httpClient, weatherApiKey);
+});
+
+builder.Services.AddScoped<IWeatherService>(sp =>
+{
+    var httpClient = sp.GetRequiredService<IHttpClientFactory>().CreateClient();
+    return new WeatherstackAdapter(httpClient, weatherstackKey);
+});
+
+// Configurer CORS (pour le frontend React)
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowReact", policy =>
+    {
+        policy.WithOrigins("http://localhost:3000", "http://localhost:5173")
+              .AllowAnyHeader()
+              .AllowAnyMethod();
+    });
+});
 
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
+// Configure the HTTP request pipeline
 if (app.Environment.IsDevelopment())
 {
-    app.MapOpenApi();
+    app.UseSwagger();
+    app.UseSwaggerUI();
 }
 
-app.UseHttpsRedirection();
-
-var summaries = new[]
-{
-    "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
-};
-
-app.MapGet("/weatherforecast", () =>
-{
-    var forecast =  Enumerable.Range(1, 5).Select(index =>
-        new WeatherForecast
-        (
-            DateOnly.FromDateTime(DateTime.Now.AddDays(index)),
-            Random.Shared.Next(-20, 55),
-            summaries[Random.Shared.Next(summaries.Length)]
-        ))
-        .ToArray();
-    return forecast;
-})
-.WithName("GetWeatherForecast");
+app.UseCors("AllowReact");
+app.UseAuthorization();
+app.MapControllers();
 
 app.Run();
-
-record WeatherForecast(DateOnly Date, int TemperatureC, string? Summary)
-{
-    public int TemperatureF => 32 + (int)(TemperatureC / 0.5556);
-}

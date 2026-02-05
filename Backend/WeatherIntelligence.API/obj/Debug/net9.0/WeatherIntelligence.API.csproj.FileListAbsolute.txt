@@ -13,6 +13,9 @@ C:\Users\melha\WeatherIntelligence\Backend\WeatherIntelligence.API\bin\Debug\net
 C:\Users\melha\WeatherIntelligence\Backend\WeatherIntelligence.API\bin\Debug\net9.0\MongoDB.Driver.dll
 C:\Users\melha\WeatherIntelligence\Backend\WeatherIntelligence.API\bin\Debug\net9.0\SharpCompress.dll
 C:\Users\melha\WeatherIntelligence\Backend\WeatherIntelligence.API\bin\Debug\net9.0\Snappier.dll
+C:\Users\melha\WeatherIntelligence\Backend\WeatherIntelligence.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\melha\WeatherIntelligence\Backend\WeatherIntelligence.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\melha\WeatherIntelligence\Backend\WeatherIntelligence.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\melha\WeatherIntelligence\Backend\WeatherIntelligence.API\bin\Debug\net9.0\ZstdSharp.dll
 C:\Users\melha\WeatherIntelligence\Backend\WeatherIntelligence.API\bin\Debug\net9.0\WeatherIntelligence.Adapters.dll
 C:\Users\melha\WeatherIntelligence\Backend\WeatherIntelligence.API\bin\Debug\net9.0\WeatherIntelligence.Core.dll
