@@ -9,3 +9,4 @@ C:\Users\melha\WeatherIntelligence\Backend\WeatherIntelligence.Core\obj\Debug\ne
 C:\Users\melha\WeatherIntelligence\Backend\WeatherIntelligence.Core\obj\Debug\net9.0\refint\WeatherIntelligence.Core.dll
 C:\Users\melha\WeatherIntelligence\Backend\WeatherIntelligence.Core\obj\Debug\net9.0\WeatherIntelligence.Core.pdb
 C:\Users\melha\WeatherIntelligence\Backend\WeatherIntelligence.Core\obj\Debug\net9.0\ref\WeatherIntelligence.Core.dll
+C:\Users\melha\WeatherIntelligence\Backend\WeatherIntelligence.Core\obj\Debug\net9.0\WeatherIntelligence.Core.sourcelink.json

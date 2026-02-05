@@ -108,3 +108,4 @@ C:\Users\melha\WeatherIntelligence\Backend\WeatherIntelligence.Tests\obj\Debug\n
 C:\Users\melha\WeatherIntelligence\Backend\WeatherIntelligence.Tests\obj\Debug\net9.0\WeatherIntelligence.Tests.pdb
 C:\Users\melha\WeatherIntelligence\Backend\WeatherIntelligence.Tests\obj\Debug\net9.0\WeatherIntelligence.Tests.genruntimeconfig.cache
 C:\Users\melha\WeatherIntelligence\Backend\WeatherIntelligence.Tests\obj\Debug\net9.0\ref\WeatherIntelligence.Tests.dll
+C:\Users\melha\WeatherIntelligence\Backend\WeatherIntelligence.Tests\obj\Debug\net9.0\WeatherIntelligence.Tests.sourcelink.json

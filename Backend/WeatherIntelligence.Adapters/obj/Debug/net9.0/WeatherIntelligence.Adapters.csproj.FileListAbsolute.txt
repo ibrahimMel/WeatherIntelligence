@@ -13,3 +13,4 @@ C:\Users\melha\WeatherIntelligence\Backend\WeatherIntelligence.Adapters\obj\Debu
 C:\Users\melha\WeatherIntelligence\Backend\WeatherIntelligence.Adapters\obj\Debug\net9.0\refint\WeatherIntelligence.Adapters.dll
 C:\Users\melha\WeatherIntelligence\Backend\WeatherIntelligence.Adapters\obj\Debug\net9.0\WeatherIntelligence.Adapters.pdb
 C:\Users\melha\WeatherIntelligence\Backend\WeatherIntelligence.Adapters\obj\Debug\net9.0\ref\WeatherIntelligence.Adapters.dll
+C:\Users\melha\WeatherIntelligence\Backend\WeatherIntelligence.Adapters\obj\Debug\net9.0\WeatherIntelligence.Adapters.sourcelink.json
