@@ -102,10 +102,10 @@ C:\Users\melha\WeatherIntelligence\Backend\WeatherIntelligence.Tests\obj\Debug\n
 C:\Users\melha\WeatherIntelligence\Backend\WeatherIntelligence.Tests\obj\Debug\net9.0\WeatherIntelligence.Tests.AssemblyInfoInputs.cache
 C:\Users\melha\WeatherIntelligence\Backend\WeatherIntelligence.Tests\obj\Debug\net9.0\WeatherIntelligence.Tests.AssemblyInfo.cs
 C:\Users\melha\WeatherIntelligence\Backend\WeatherIntelligence.Tests\obj\Debug\net9.0\WeatherIntelligence.Tests.csproj.CoreCompileInputs.cache
+C:\Users\melha\WeatherIntelligence\Backend\WeatherIntelligence.Tests\obj\Debug\net9.0\WeatherIntelligence.Tests.sourcelink.json
 C:\Users\melha\WeatherIntelligence\Backend\WeatherIntelligence.Tests\obj\Debug\net9.0\WeatherI.26992835.Up2Date
 C:\Users\melha\WeatherIntelligence\Backend\WeatherIntelligence.Tests\obj\Debug\net9.0\WeatherIntelligence.Tests.dll
 C:\Users\melha\WeatherIntelligence\Backend\WeatherIntelligence.Tests\obj\Debug\net9.0\refint\WeatherIntelligence.Tests.dll
 C:\Users\melha\WeatherIntelligence\Backend\WeatherIntelligence.Tests\obj\Debug\net9.0\WeatherIntelligence.Tests.pdb
 C:\Users\melha\WeatherIntelligence\Backend\WeatherIntelligence.Tests\obj\Debug\net9.0\WeatherIntelligence.Tests.genruntimeconfig.cache
 C:\Users\melha\WeatherIntelligence\Backend\WeatherIntelligence.Tests\obj\Debug\net9.0\ref\WeatherIntelligence.Tests.dll
-C:\Users\melha\WeatherIntelligence\Backend\WeatherIntelligence.Tests\obj\Debug\net9.0\WeatherIntelligence.Tests.sourcelink.json

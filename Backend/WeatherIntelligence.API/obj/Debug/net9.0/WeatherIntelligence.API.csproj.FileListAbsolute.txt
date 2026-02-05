@@ -26,6 +26,7 @@ C:\Users\melha\WeatherIntelligence\Backend\WeatherIntelligence.API\obj\Debug\net
 C:\Users\melha\WeatherIntelligence\Backend\WeatherIntelligence.API\obj\Debug\net9.0\WeatherIntelligence.API.csproj.CoreCompileInputs.cache
 C:\Users\melha\WeatherIntelligence\Backend\WeatherIntelligence.API\obj\Debug\net9.0\WeatherIntelligence.API.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\melha\WeatherIntelligence\Backend\WeatherIntelligence.API\obj\Debug\net9.0\WeatherIntelligence.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\melha\WeatherIntelligence\Backend\WeatherIntelligence.API\obj\Debug\net9.0\WeatherIntelligence.API.sourcelink.json
 C:\Users\melha\WeatherIntelligence\Backend\WeatherIntelligence.API\obj\Debug\net9.0\rjimswa.dswa.cache.json
 C:\Users\melha\WeatherIntelligence\Backend\WeatherIntelligence.API\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
 C:\Users\melha\WeatherIntelligence\Backend\WeatherIntelligence.API\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
@@ -40,4 +41,3 @@ C:\Users\melha\WeatherIntelligence\Backend\WeatherIntelligence.API\obj\Debug\net
 C:\Users\melha\WeatherIntelligence\Backend\WeatherIntelligence.API\obj\Debug\net9.0\WeatherIntelligence.API.pdb
 C:\Users\melha\WeatherIntelligence\Backend\WeatherIntelligence.API\obj\Debug\net9.0\WeatherIntelligence.API.genruntimeconfig.cache
 C:\Users\melha\WeatherIntelligence\Backend\WeatherIntelligence.API\obj\Debug\net9.0\ref\WeatherIntelligence.API.dll
-C:\Users\melha\WeatherIntelligence\Backend\WeatherIntelligence.API\obj\Debug\net9.0\WeatherIntelligence.API.sourcelink.json
