@@ -1,0 +1,15 @@
+C:\Users\melha\WeatherIntelligence\Backend\WeatherIntelligence.Adapters\bin\Debug\net9.0\WeatherIntelligence.Adapters.deps.json
+C:\Users\melha\WeatherIntelligence\Backend\WeatherIntelligence.Adapters\bin\Debug\net9.0\WeatherIntelligence.Adapters.dll
+C:\Users\melha\WeatherIntelligence\Backend\WeatherIntelligence.Adapters\bin\Debug\net9.0\WeatherIntelligence.Adapters.pdb
+C:\Users\melha\WeatherIntelligence\Backend\WeatherIntelligence.Adapters\bin\Debug\net9.0\WeatherIntelligence.Core.dll
+C:\Users\melha\WeatherIntelligence\Backend\WeatherIntelligence.Adapters\bin\Debug\net9.0\WeatherIntelligence.Core.pdb
+C:\Users\melha\WeatherIntelligence\Backend\WeatherIntelligence.Adapters\obj\Debug\net9.0\WeatherIntelligence.Adapters.csproj.AssemblyReference.cache
+C:\Users\melha\WeatherIntelligence\Backend\WeatherIntelligence.Adapters\obj\Debug\net9.0\WeatherIntelligence.Adapters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melha\WeatherIntelligence\Backend\WeatherIntelligence.Adapters\obj\Debug\net9.0\WeatherIntelligence.Adapters.AssemblyInfoInputs.cache
+C:\Users\melha\WeatherIntelligence\Backend\WeatherIntelligence.Adapters\obj\Debug\net9.0\WeatherIntelligence.Adapters.AssemblyInfo.cs
+C:\Users\melha\WeatherIntelligence\Backend\WeatherIntelligence.Adapters\obj\Debug\net9.0\WeatherIntelligence.Adapters.csproj.CoreCompileInputs.cache
+C:\Users\melha\WeatherIntelligence\Backend\WeatherIntelligence.Adapters\obj\Debug\net9.0\WeatherI.3C5F36BA.Up2Date
+C:\Users\melha\WeatherIntelligence\Backend\WeatherIntelligence.Adapters\obj\Debug\net9.0\WeatherIntelligence.Adapters.dll
+C:\Users\melha\WeatherIntelligence\Backend\WeatherIntelligence.Adapters\obj\Debug\net9.0\refint\WeatherIntelligence.Adapters.dll
+C:\Users\melha\WeatherIntelligence\Backend\WeatherIntelligence.Adapters\obj\Debug\net9.0\WeatherIntelligence.Adapters.pdb
+C:\Users\melha\WeatherIntelligence\Backend\WeatherIntelligence.Adapters\obj\Debug\net9.0\ref\WeatherIntelligence.Adapters.dll
