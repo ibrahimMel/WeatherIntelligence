@@ -44,3 +44,4 @@ C:\Users\melha\WeatherIntelligence\Backend\WeatherIntelligence.API\obj\Debug\net
 C:\Users\melha\WeatherIntelligence\Backend\WeatherIntelligence.API\obj\Debug\net9.0\WeatherIntelligence.API.pdb
 C:\Users\melha\WeatherIntelligence\Backend\WeatherIntelligence.API\obj\Debug\net9.0\WeatherIntelligence.API.genruntimeconfig.cache
 C:\Users\melha\WeatherIntelligence\Backend\WeatherIntelligence.API\obj\Debug\net9.0\ref\WeatherIntelligence.API.dll
+C:\Users\melha\WeatherIntelligence\Backend\WeatherIntelligence.API\bin\Debug\net9.0\appsettings.example.json
